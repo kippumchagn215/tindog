@@ -1,0 +1,137 @@
+body{
+  font-family: "Montserrat", sans-serif;
+}
+h1{
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: white;
+}
+h2{
+  font-family: "Montserrat-Bold";
+  font-size: 2.7rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+h3{
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+
+
+
+
+.container-fluid{
+  padding: 3% 15%;
+}
+.Angel_img{
+  width: 68%;
+  border: solid;
+  border-width: 10px;
+  border-color: white;
+  margin-left: 80px;
+  transform: rotate(5deg);
+}
+
+
+
+#title{
+  background-color: #ff4c68;
+  color: white;
+}
+/* Navigation Bar */
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+.nav-link{
+  color:white;
+}
+/* Download Button */
+.download_btn{
+  margin:5% 3% 5% 0;
+}
+/* Features */
+#features{
+  padding: 7% 20%;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+ /* #features{
+  text-align: center;
+} */
+.feature_img{
+  color: #ef8172;
+  font-size: 3.8rem;
+  margin: 0 auto 30px;
+}
+.feature_img:hover{
+  color: #ff4c68;
+}
+.feature_txt{
+  color: #8f8f8f;
+}
+/* Testimonial Section */
+#testimonials{
+  text-align: center;
+  background-color: #ff4c68;
+  color: white;
+  font-weight: 500;
+  padding: 0% 12%;
+}
+.carousel-item{
+    padding: 6% 22%;
+}
+.testimonial-image{
+  margin: 20px;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+}
+#press{
+  background-color:  #ff4c68;
+  text-align: center;
+  padding-bottom: 20px;
+}
+.press_img{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+/* pricing */
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+.card_contents{
+    padding: 3% 2%;
+}
+/* cta */
+#cta{
+  padding-top:100px;
+  text-align: center;
+  background-color:  #ff4c68;
+}
+.cta-button{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/* footer */
+#footer{
+  margin-top: 20px;
+  text-align: center;
+  font-weight: bold;
+}
